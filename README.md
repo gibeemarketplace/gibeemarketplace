@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**gibeemarketplace/gibeemarketplace** is a ✨READEcial_ ✨ repository because its README.md` (this file) appears on your GitHub profile.
+**gibeemarketplace/gibeemarketplace** is a ✨readmecial_ ✨ repository because its README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
